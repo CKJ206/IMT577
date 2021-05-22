@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="143"
-  DTS:VersionGUID="{2CCDA3AF-B64B-4FB5-94D0-FE6723C380BE}">
+  DTS:VersionBuild="154"
+  DTS:VersionGUID="{368051DC-5DE8-4B2E-AA44-09A8EDC5383F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -83,7 +83,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC6eBpF9vqfffxyACSo/LcDCoLNlCeVE6wEICKAoYucTQAAAAAOgAAAAAIAACAAAACdXGVyBDwEJUXIz5OobszHCHtI/UIyeh+koRKGJsDMejAAAADl07FjLiR/GU5Juc3sO++ir7mvtpVmmhRPK1kdNnNmHqVJWhxQWU4fsynW+32oUHBAAAAA1aT6pbZ+GMYBPMQ0pn32ndOSkdTiQyDMZCk60PxI+IytUZHToFVz8fTT1tI5L6v7NAJf/pwDD3JCG6alUFcCtg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD60PCiOdGco/1rsILOTenjxI3VFRIKN51eJBH6nXW+twAAAAAOgAAAAAIAACAAAABc18ZkkVremw1Zz40Nc54viUJazdTk1WFxVTIOqz+73DAAAAAUtObYTMXOvlvpgXrjp0/u7/Fo9KVPiQmHAabcLwY5feTHnEFBpmyzGCHeLu6srfFAAAAA7syemhPPF3BhEoLULqTfMfq/8UiexKENpP55kop2UD8EluwSnyTcJWYGwX9Z+t4ye1gZI3w3EkKG8LpVO+RDKw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -98,7 +98,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACQm3JHbCwHIKjWv3tGmMfR1QPnkb+manaispPzQ6f3DQAAAAAOgAAAAAIAACAAAAABvVQJyeHSYnwtHjzbme7rZ0Wkd24VZhfrWEgqg4GYgDAAAAAJcaReNY1AvIO2O0OLI3O3QgOzI5slpyeowl3XlZzpQienEJnHDTJfsGVHiHsWD+FAAAAAffX4GdVVGz5+XcfXkb4yI/z9P1pona6102UzwAkId8W7HryADHXwqhsaOnuxZBWAhbaAIVxTWVtllOiGV4mvBg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACL8NWTHHhqGPQhkowsapc20Kis7H7wYqxzajGE6kOExwAAAAAOgAAAAAIAACAAAAByDsu6fbXrMOClfL+9CMcO09TLC4ZTxrfVFEpaWc8CszAAAAAdekFpi+CAKj96PmWaCOGUtp0rMCk/jxPdcslbdIWbLbuwGsgxvx79ihOtJKmbZzBAAAAAJnbYtwJwSJdWnCu6zLOimQaDYwjHz2l/qus/oGkWGQ5dF/fuWySp6vnHJmKvh2XpBSmcGEEF4TAyeUuOccXHzQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -113,7 +113,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADv2evN0m8z6FURKxkVuC+NXnqIP8Hbrq3tX184Tj1bZwAAAAAOgAAAAAIAACAAAABlSHF9nvbs8i5Fqq6WMysEyDAWtpAGKntE2t+3Mom+KzAAAABBHQvygbmUJNjP0nC5NgH3m3wk9kQpDLa4Jh7SOry4pePUoNGvem/8azEpg7Fv53BAAAAAyJ43A0dwz16srOX1nlNrSxVg1MAZ4md+3UJYUy8N1Nej/qva18qxgA1wT7Yl49j5dvrCBz2imbvHBv1P9mQZfQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAJ+fpq7tI6fE7tmRBPIMcJ2owZUKW2t1frDYuHd/tF8AAAAAAOgAAAAAIAACAAAABvaiPCzOicNMdV5I7ViIuljG2+NjIUli3Jq/yPkpUtDzAAAADTZZ4hUbRzhHY5iGEumpEsmAPDSHE/kyStMiLBppWtOVc+19zZbUlsVaLTdEeDNa5AAAAAlkEpbSbmwy5i2HQiA9mRSJmZA+5FHh8n5y0Aldy6y3ue1K4JyVUw81bo4MTEwR8m+0HhbLfTPOQTRR/tBDLuuw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -128,7 +128,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABnX3zGsCjOSsK9i5NJnSOqSc6JhhnrrDOgp8Tkq7Bh+gAAAAAOgAAAAAIAACAAAADYOPkwSpT/CyIpQCYRukE1gub/XVPUpbFTNYiRKllCLzAAAACSrj/XR2dEP/ubWcB93Oz1wu5HRTrdnv4zWpAXcVN5KDlLg3obhnA7rrgeRBrw9adAAAAA/OlM4R24P5pZd25J5L2zJniG30dXo4dy00dZubTJ0SzSyv5lRxd6/TUV1BQlOd2lSD3CyGW5M+VI+qYQD71RAw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABbJrfcn5A1KoSnEPRJAV8a4oOkwJ5aloJoMOvNF+xEmgAAAAAOgAAAAAIAACAAAAA2fv9EPywv99VFLPiTJnaBzMqPrxLsl0fJKgEz3h2SFTAAAAAzrTTDMzlWHe14wI1KfH3GzE5HshgJVdVYRNOaVWN4MDLzoPSIp7qg3bYStW56w2xAAAAAWCO9V+Nh8+7aP9Gy05ZBIqddaJ1eb/gQEw3g7biL/aZBiGmRvDn0zgTz/WDwPyr7RYlEUugTGGDMPCO3REUKKg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -143,7 +143,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADFE33F1wcHAyzlbZaGsrvVtvZee8M4BZ+C0oNSWqs4QAAAAAAOgAAAAAIAACAAAADhCKBTPaTMGfPxMom/ym/OnlJxPoUZPcWAdQTEa4btBjAAAABUQzLLcTbvfqP2MEpHGfl8GPmKFXfZZh0mQIqwKmIsin+EdXW4JX/xsRz93DL5qHhAAAAACd8fan0alE07JIkBCX9d7xTz5/wvP2BuDzmrV3A0PMsLMNyPcCzhih6iczIaZSPWiJmcEstdw3hQeRhWTS375g</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAGhU3S5f0bvsBitgpRbDW0R8R86Sg2foumMC0uGQaBcgAAAAAOgAAAAAIAACAAAACxHR2vhgRgdyhYsfkwdr9y3HLom4nHqbRj3jRZoi0vhzAAAADSl0pfx7S1FBYRSjZPQXMRhEys77QlJwgjaQGUck+xvP4beqJq69YP9ZXaeXNT3aZAAAAAUVGOlIMYpvCGxIDANNR91Edu+EsWnDCL6m8HGZ5qanUZAe4geRQe9KW+e4ov4GPJt76L7CBAmc/X1IWgkvV2PQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -158,7 +158,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAWuBzkwSjBGPvslqWxq7qEzJ35vXT/aH5R9Rlp9a+p8wAAAAAOgAAAAAIAACAAAABlz9OXpkJzF3LJQe02mToEnDy9Iz4QUe3tfwDhDRvapTAAAAC6jVUTLHsy7rURPS33EXeLy/A3zr1v3km0DuNTDQAwV9LB3ATtVa+2BHX17KiEmCRAAAAAqM7/QrlW4b/+Tj59ian/gwojzuPX13LFuJiLLs6pYG/Th5YtmeQY/3dxqEVK67QHGaYCUMcHOEDy62Nfw+kn5Q</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAmgp4xhqImjt3OH+f/9S5BW35+DiBVbVX8X2kdmd4bHgAAAAAOgAAAAAIAACAAAAAAFhB9NigBodFoIZjWF62X/tMGUlMdIaj7rqfDWL/X0TAAAADAKBraSx4ONC6C+KjCSPK2Au3t6jabA09wRj5vQCbL7caYAAHlPS654lbH9kz3yfxAAAAARSuueoo5jsHQ73vwNjIL9H1PviJp11V9IEuQF+uZK/M6qVOB3sD+lk5vi3giyA/EwdFUc0rDBROOfhZgyqCqoQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -173,7 +173,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACNnOu1hK4l7FeDHAmVF4oO9ohr9R3j5OvpVunQNsnF5gAAAAAOgAAAAAIAACAAAAB6VbBOhtJthHqvZgFLrMcqatq8QEcOtu1v8PpIAp9YJjAAAACME1WTRF5GZu3/Rtx3ZSQcM0Ki9DIG74s2ArFCBq+WE32RKjpdH9VzHyTmLqVK0FBAAAAAgie/OKX9Z45psoAL1ihpcMdrjkDN/Fuf4caAPBEBsR5+tEbmIpYWhrRCenNKxEiHMqcqerOLQ76Ib5M3jNmYmw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACpjtkluz15ESQm3NnjhxS1J9nSeO1JjROg3pA/mg1BZwAAAAAOgAAAAAIAACAAAAA/TuIRCHRbbdNKE2FrMC9ZdcgEDWupHtDTUj4QJLGbEzAAAAC6zjTE+Ovhv++OF3HAVfzOscqc4lWJw+ac/oyKBKYFJRF0QLDJCQRyPHX4Nd4VAv5AAAAAGs9fRe7pHB1PUlsMJK38uLQIWjVl+s45jBAu9cczlAUHzUNhsMjl6zL7K3vnzt/Xy7EYh21DvvwI+IJBu3bXow</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -188,7 +188,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAEKDgVNosJzKaOINxKY+E9kUqjqe8QGKsF/qGRvs0nEgAAAAAOgAAAAAIAACAAAAAFgsYZGat1Ouk7/ixSv2jKa7ODzgeHAE1mKB4WIMI+FjAAAAANKpE/ojTYhR7qS2br2whJxqvPvl+AkXzU01Qd403DcEeAWogYCWe7WCynnzZOHjpAAAAAG37VdRYVk/ob8e1VBDgNCt6Ci6Jp0iBvVjSJRWVyET5NpT7TqqrZGA5K+gGHo+JUUhaC9Lq/c63qCTy6Oo9hbA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAq2pJ/COh/E7DqMW+nObjJHacnIkuGzW9Kxcu1XlYQQAAAAAAOgAAAAAIAACAAAAAV6EFFdKMBRVx6O18WZsnAdyiki+thnZ1oOPYS+rrIAjAAAABGyoz3kByLXBO83CFuIQ0iJHRUhrGWJeyn6THgcBOigwf0NcOjS/5NTOiPSLdGrCdAAAAAsyElCY3STy3xGG0FsN93gTuoT/h2Pl2wu7o2UrGS8vdzyhevby2bH3qSSdSNjDMI1ni4+93Iw1xHjyj7ENhHlQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -203,7 +203,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADspcAFUW2M1+8lkMwcDqGSfEdv4ClphelvFEM40veEbwAAAAAOgAAAAAIAACAAAAD6OCb7XvIoDHPlPGVF8B/rU+qX1y06Ff8rApEf6vr6VjAAAAD2dGoDXLb4Nc1GmezRIew4LFth5jNcKpEZXV2GbXakVlgU9m0PyNgN/hCSH79WnVdAAAAAil5ECbrsmPKxfd8Wod/8Om9PVCoqHBT3enYwlRQqidBhAzzo+/rXx8yP97owZ7neqMUvnJVagId+CMfUNmDLTA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADHP3gfZmtXKgv7vO+iRSrftNY7FYegUTcrKPOFbQx2zQAAAAAOgAAAAAIAACAAAAAXHIxXoC3BshnGVt4i/eGTBmqpMwj8d1m+o+/2PrVnTTAAAAB79QRucrit+IXM2uwS96GTyC9bc5RY0pjK3gItSqixHdU33bXTXkQmjUL6J/UMV/tAAAAAcGBipU+9umc8nPuaYR+jq8fkraDF+bHoSCGL5N7MLLW58hExSICLb7dD69W1VvtphQhx26etSYnt0dKF2nN9hQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -218,7 +218,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACcbBgNusPZ5dHfICZCGExZEuWIZV4Nw3nUiW8xpzG0IwAAAAAOgAAAAAIAACAAAABZcLKTk+0wgptoG78TWYDDhNAIdAhldd2P6IRDmVO0DzAAAABLhmLNSCS4tUfljCgcZhr+RQGpO/9t5quyfQRexm412lnRWEeG49G7jjwKlvNtcmlAAAAArCEs1EQia1XRbXIto6UjLlWwwrhOmElwycIMwfkK9t7BY4Om/YIGyZFcAJA1b1xjTdyOwxwdsVM0NfDEnMVH7g</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA/fikled1FIZjraXWlCrB1FEUGWUwagDb/PTh0+t/0bAAAAAAOgAAAAAIAACAAAAAkngavli5iMxHyLccfljrG6Kq1AtV6CmM7O6k3ULlWWjAAAAAXvIIu30VR1Ua/I8UIZAnDeV13lEx5yRpsFbKR+vZYHnKIMnBJfmu2OlTqLxzYadVAAAAAG14+MWMzfHhTJ+xh9tupfyQ9O7mewS1V+0KCJWpPjvtMPJQMhzxPVVqnHBoMsCi50PTmFc1jEGD951T9jqD9OQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -233,7 +233,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA4uOmOLKF3knYlYb3HFcwbtEvTS/dpslSbb2VhaGcgjgAAAAAOgAAAAAIAACAAAADqcGfNOrnvuFQvGWL0dFoxizjIDtouUV0EzJVvzrRi7zAAAADhvfzx07NV2Wk8joZoXoeZoIbJhJnMYeZgZu5qev5cm4rXnrz64hjgsDsQhoPQUQ9AAAAA1Y3fmerUwYt+JPTEu4JBvPPAJiQJMlr3UgdwlkLoMgsPg40nqnMZ/Xug7vuMpjWic2BPbp/llynCBJA6U8u2gw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACsBsOQzz4o33m5hCEwKLErssC/beywVGQPekt2oti9/AAAAAAOgAAAAAIAACAAAADY3HqCKgleXMy6bquTA5/mydN6n0mGQbXzlRjBvLESqjAAAADByR1phmtXGQpMR9ncOY6lvPXPqKOe7EBB1zI7pMmUdY5fpUqTi8vXdvco5ZrmmtBAAAAA4iaaEiR8qkDMXOmuf8iMVxFThXzlagsUyuN7XvuCM0AkWkejd5sKWb2L7gK12LicZL1sg9GBY524i6V742TfOg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -248,7 +248,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACLBYxJgpzc7/OnRMEyici18ql3Md0xnfxJzHBwL5sEmAAAAAAOgAAAAAIAACAAAAA91wsVFLA8n3scrpJP0opjXvp/Z3sx52rHWYORiyPADDAAAACbG9aFsMM8AruqODJjvOs1OXFgH3kqbMprQlpmAPKiH3juIV7MPdu877SsqCi26tpAAAAArTLLag4Cmv40z3Lw0qoQ2Kwg85VtAzJCu7cEr+GWucs0GcZhWq8VEL5NidIVuQsDaqOURSME8DHMCtdGiPJKzg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADvzfK337xV7xvAJq5bRG0q7KFh67C8vMxxq0uPRM41LAAAAAAOgAAAAAIAACAAAAAVwjM2DuzLodYbsKJG0+agIhoq1jxj8Cp+1/O4eG0E6TAAAABcgdVCQiky8KI+T5mPZ7GikpZpUZ4w1MqAG6Kq94rJvZwBQZYJIHHwY3ib9wCsmERAAAAAtoPsagWERKCyNchF1BZzoamEZu7AsmaGddyVp3/AG6IwLqGTNcGv4+tlL/FakXLTRC8YUrATFtc98zXEtCNgEQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -263,7 +263,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAacX7Y7cc/9zSadrXGmtjTwI3CWfZ7nciOkBYllabNOQAAAAAOgAAAAAIAACAAAACae1CphEBmO+AANSMBaKu8QHubpwlAg1GI7UwTEU7bqDAAAAAx7vyPxK5EZ0id9pqKtSjF809xlizUWM+Eg9aREyfZ5+mY51rc9zYNX8jhSPR89G1AAAAAGw18/DJJkWgFmbNgCwG+vnzz687x4hzsAz7g6csImvt92MqqWhsI9Z3nYAZRfzz5AxZXZO2igZ58zJtTprI5Bg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADjxvzFFZg5GFugy3/jgJhFTuICozGIQ4XcHO6wlfVDtwAAAAAOgAAAAAIAACAAAACV/Ub0aOI6DT8YKURxOGxxR5Q4NTpM5OVyHsORoco8gTAAAACba2aQcvC77SCh11VS5H4i26t1zLH2HdofkjCK54gTVdL5ivKtcmORHV7h60QG8FpAAAAAwnCAPYJJRP4mfQGtfnVsjA+64CkICj5yHmMOUVovJWpceGR8GOJ4bYOfHprx+/SyhJylcrdp9sU22v9VHFlh5Q</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -278,7 +278,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACHGVFCAGhhqJK2OOVQ3NwEz0kIgAm84IEsp4Y42kUKiAAAAAAOgAAAAAIAACAAAABBeS6sVIigoJelClD+sB6UkH7+cqGl7kg1uk/wv0klPjAAAADN0Ro9iIIW97V+DyRqtEK0P5lH26dSug9LD6NVJCFkkZk6CJIJV4GFa4J+upvCJ8BAAAAArBlKH0XmRjtd07nZMkNmTuMa1CruJqpFgV04/nin/v4wE/hWe8PT8aRglSOg1syd39Uli8BdwtCzH4tt1xPISw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACQt/O2jZt/jMZphSY2aR2NEq0gJ+z5w+vzlbmVnI9DzgAAAAAOgAAAAAIAACAAAABbIuBQJ0ifXVlCKhRUbBR7Fdpn4YFMM78f/koKVAgZUDAAAADQBZhzY3CsTdBJEiXFV5X7wMUXT/qOVL3MrWF1Zrdpbggbrrox3z+Ftx4Nm4usrRhAAAAAfdfcY/GCb2Q3MVJoU/4sTFaS9klbhKWRCwehZPJgrLsJnDBFO/vJxZVaEk4xvq6nzNXkgDw42SOmxIeW3Nedsw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -293,7 +293,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD2jBKoCwe0SMjVMs1SefXcK/LajGihq2d+3MIb5+fQGgAAAAAOgAAAAAIAACAAAADJNR7s78lqx9SNhkKGzWcYxzMFUO86kjwmHwXamwbEijAAAADB6sP3tL5NdphNjZFPXV2Tswn132YYJ6WQ6KCrlSboYerXun6fVg7W2MAWszg1xIBAAAAAEoou6uM3o+sCWlohWcgN4UIB7DBxHUftZG8G/Ho/YBpqO46c/mhPigYZZoIPO4f+diaOmmZA0SSBr2XgA/NCbw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAsm62Ql7PRtTaXeQ4s+nLYcBBEvJYaanAEnZzJB73TVwAAAAAOgAAAAAIAACAAAABfxxAR7Rk8Dw/e236aRbMTcIO8Oi8G/BxfpqWALw5WrDAAAABIOxzxV/sOmfR2ofHr0c6S4RNcr6yVyTtJjxaZEySN2hlV/IATGA9if07VQweDh+xAAAAAjhbkYrltQh1VacM8o69n2Im0drjrMJDw3xUQc0k7SsgWsoQ6b9WuksOt3cxAOSUY9ZJkL3h1m7wXq62reh2xDA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -308,7 +308,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA6sKDNLXlvw9r7qlHlicR3xia1LynaoozCfRo6EZCq5wAAAAAOgAAAAAIAACAAAABFskOyW1Eemoen651pJuOPJ6bEJYUtOqn5yLYctac4VTAAAAATPnYnlJLKxu6nqK00oUG/emGXIqzrdvyksf7EebI10c5CFoWo0cOviHP1s7qO65VAAAAATw1wUvwRusk5IK7r0uS2t11MHk0kfAQ2ziTIQsRLCr6Y1Q27tMVvlYWqzRg4kpIi8ltHq6s2sQH4PgP8YIAJcw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABeZZjJmmVLkBFm9jPZ6s5+ksDTQd0EMukbgLx2WLWQ/AAAAAAOgAAAAAIAACAAAAAHualp6uNLLaPlHu1l2Q203MKESe66yopRzejJO1LACzAAAAC9YoJZi0v7OU0LAe2moRpmR0DP40HK47ysEPP+gO9IMHF8UThGCryb+MgiuMbyhepAAAAAhvkCyR/ys7H7U6Vf8JbNAC9Q4tJDhbrcfFgzfC1Ea9NxvIOeECe539H6SklLKsglR/pTd6bMaTgW6FCvmNnJHA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -323,7 +323,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACXgrYrNHTl4B2pki7/+p7dXlWydkWGoTl8plmOM4pHywAAAAAOgAAAAAIAACAAAADUNInLd+Ky3CjXCAugO5Ruep+6BKBbHRI0FFF7gboQyjAAAAD2OwikQVVCqFgAkRXJoY7VyDfCCzqXe12+9WSkyygWfR5YexU4m8VcvFQ180sksxFAAAAAMwkgnm1ftPF382lMz74Zj65XBEvv4ycZ/srB4aVv0JDIer4NI1uqUGC7pFiTucoKxidZp/yumae9sYL1Dv/1xg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADezFV5o1H9zKTyLfuhKG0chJDBxy1HyLIYKXAPxCKT5AAAAAAOgAAAAAIAACAAAADEIzzAwVNV/qicHmRWmBDh56ScQrnn2jS2zhJmPU8QqzAAAAA5B22jVtObxZDp4P8shMo45f9GG2npU1FMdFi+DRUbQCFlZRU6fo5uc8kOx5o9SlJAAAAAqeziPdTvCp+seFdABI490flqXsI4ZCKQkkxl4pol5hibdcJA8vQKjz2XheXO7AyyepMxG9c6oK6swcXqWGFOVA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -338,7 +338,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABA34+FD/Frc+ev7qx5O5nhS4nmQkoaAvttmybDANaRVAAAAAAOgAAAAAIAACAAAADjYIaNzN7a+Mhn9odCrPG4MS/r7FDN/h1zwsZntWqfPjAAAAA8z5R0oArJVzITi/X694pDCyEa1FszhJqA99mI3htj9zkv2/skn+cKbQO7xbj2q6FAAAAABUsUDcc24W4W/FmVyIajCOlbQk+We8Fr7iOQAyvJXNwvVVUT/kR4OCfrRnlkStRru1pw+VkG+rgbSbgPe8wIfw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABS4zIFrbyt37QD4pFjW1fF2/+AP6HSzuLIXCNrAhShRAAAAAAOgAAAAAIAACAAAAByTVz3Ct5jWBV9J4xOzscDY4naM4xmWc6oBCtNuZXVtzAAAAC0+V4//ve3DodAZkaOo48Jdu2vzHJ7vmBZ6MtpUi9/DJxZzOjI1zRvITgLS90dca9AAAAADgx/wmJTlO3xBs/UzjOYSLcyosr8zvmEjPDW2aNMqprL0n4/NfiTBmzQcuQSX69Ufdl2cZgziPpGZ3FofDecBA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -353,7 +353,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAwZTZk3dKmafe1sPraFmyI96maP5j7sxGolW4YPhdZfwAAAAAOgAAAAAIAACAAAACMO82RTiGj2Z9VUdA4F7pprJbNctgg21UzE50RSrlLcDAAAADImjRHxtpz1kv6QeGB/UxOdsTy5bwY15tsmvmkVGuucmGqU+UEsWNL0jilEe8/XEFAAAAAJciR75jgSGYBBYZWU4/LEW+Fe9q63BuGoEmAq2tyyJtaWUyj4YBLAiDU5uwubFUWVV7qClPhFMQlwd+KAJIKrQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADZVGN+ve56A5h5RhQT1palVWjpHihye6GKpM66S1wBywAAAAAOgAAAAAIAACAAAABxUXSBcl4qlxqShSacpIH4vXaY+RHE5BTIhvrlgTks5TAAAAB0O94hGcKnUdUGzRDlm+6nYi9xGMIGrojpUIJI7BeyzQuhNc/cOc3TEAHVIE1IX6dAAAAADn/kG+gP5ZDXg8vezCQrZwEI8ojez4FzFk4HwpPPDy7Q3hbkp5KM44xBb+/lVVBPXSskY7N16VitsNOLKd3LSg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -368,7 +368,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACeW3NQft/ZBdZ6bvnZNQHlVLM4Jninx+Ko8nSUwis5/AAAAAAOgAAAAAIAACAAAADNsEV/5hrcYJmzoTUeXhvuZ5a5denLapy9u/4JZMXf4DAAAADtVfk3NoJB1PB19wm9u5xMsmRJbnJoIxQb2LE+ug2IbiHo5m8TJm8Uy0Shphy8Bo5AAAAAaHrOAx14NI5KNEUcHnxQuy6ENSyMftLVAjezNfSS6eWVrcz27Jy0kw4jXtANyPcg653Ifz+pmqNOJHE6o7Fgow</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADV67m1DmwzdMYBX/qgO1Vu4P+7hyJD4CowQnr3kAWTqwAAAAAOgAAAAAIAACAAAAArafbsLH36OTRG1svhAKNb2s/m9dyeetREtr3Mz2kHgjAAAADZtMaM+ypzRcTrs8NS/VUEMDV8nykpmHeHTDFnKqGS27a0zGRhBqhC3xmIg0V7GZZAAAAAP5LMLX0VSZJaSvGDYi4T3A+0A2NX8XVvjAObut/nVuIv4m3Qu/oqRGRGvE4s3lQ9CNI3KlHn8J7aNIIJGMaYbA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -383,7 +383,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADcSFKX2EPDBthDqwOKn2QLm6Nmlnv/AzTFtR+e9Z3MTAAAAAAOgAAAAAIAACAAAAC26imjGWNfNYNzj9KTlC1diVvNUuQWwY05oNyoKszQSzAAAAC8zhRiUkTNY2xpx8YGeGR8e06eJtIk9GTTZZWj/elr+TFyQ8Ldy5dyRqMsYLnC7txAAAAAMgXMmDASFkl66hm8/PmzqB14ltQXDrbVqjKxnlVWndViLh7Bo9G9Dxa0L+faeaF/hwRcGucWf004IAZ82tgT0A</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADK5zRSCZ7b7EOtj0NgwFSN2psZp0LPcL58IJEBA7KpjwAAAAAOgAAAAAIAACAAAAD8GYQG0yZ6TSoop5Gd+eI3JugqcoSJo5nYAXofCpd5ijAAAACY4yLrq/1sR2ojY2VbjWe5K8SzcmNb4zlyqY56AIIi+oDmpTO0qcaRyiw3DwD0BedAAAAAWwzmAsW+7Il6GgqbU1Kh3YeKxCGAIw/O5omzNzUKFN3+XLrKj+dIXa/Li3klJ3OJcirl691tT2XVXVuijd6kHg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -398,7 +398,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABt1j3F2xeOBHDZsDOr20ECepLpVw1bJKt5Dkks3e4qvQAAAAAOgAAAAAIAACAAAAC4ruanyJeRlpZWpQWuBVWZsbQ/XsizC7dCfr+oz05SMDAAAABuRWYqVIQQm/cDACoWdpoBma5/YQbEte2JcqRehemAut3Jd5GCnrFkHSdCoknxD5FAAAAAF4bVpIcr1STxT0QdlLSlHxTubinNkyuxV/IxjRwN/rUdEyQ/4Kfi8ZvNL499r7dy3nGtwaHxXyPYQreNunEdXw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADeaIBKVZWy4LaPCpb6F8Wc7FpzGexejCsW6uVVx9/6qAAAAAAOgAAAAAIAACAAAACggt9IsVDpMPmcvpvYD/bXat4ASCxVMDNaGwnhaZotezAAAABn0rBOt4Dtjij4YClja92a6Q2N34mx1fIDKFljiLIFTaPTx4H9uylfr89zQrFDBDRAAAAA/26J5hdjUfP43c4Lg5bEOZgzyColabCBh3F8fseXIViJ+LGR0yMFZQ5F8S5fYNlhGtY4JZhKWdcz9bNdgZd/dQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -931,6 +931,23 @@
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
+      DTS:refId="Package\Delete Views"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{DAC6ABF9-8C89-417C-A7E7-F1FF9EB31C0F}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Views"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{165BFA7C-E9EF-44E4-A115-2C55EE66C92E}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_factProductSalesTarget') DROP VIEW vw_factProductSalesTarget;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_factSalesActual') DROP VIEW vw_factSalesActual;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_factSRCSalesTarget') DROP VIEW vw_factSRCSalesTarget;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimCustomer') DROP VIEW vw_dimCustomer;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimProduct') DROP VIEW vw_dimProduct;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimReseller') DROP VIEW vw_dimReseller;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimStore') DROP VIEW vw_dimStore;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimChannel') DROP VIEW vw_dimChannel;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimDate') DROP VIEW vw_dimDate;&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.VIEWS WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'vw_dimLocation') DROP VIEW vw_dimLocation;&#xA;&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
       DTS:refId="Package\Load dimChannel"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
@@ -1080,7 +1097,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{165BFA7C-E9EF-44E4-A115-2C55EE66C92E}"
-          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'factSRCSalesTarget')&#xA;BEGIN&#xA;&#xA;INSERT INTO factSalesActual&#xA;(dimProductKey,&#xA;dimStoreKey,&#xA;dimResellerKey,&#xA;dimCustomerKey,&#xA;dimChannelKey,&#xA;dimSalesDateKey,&#xA;dimLocationKey,&#xA;SalesHeaderID,&#xA;SalesDetailID,&#xA;SalesAmount,&#xA;SalesQuantity,&#xA;SalesUnitPrice,&#xA;SalesExtendedCost,&#xA;SalesTotalProfit)&#xA;&#xA;SELECT DP.DimProductKey, DS.DimStoreKey, DR.dimResellerKey, DCT.dimCustomerKey, DC.dimChannelKey, DimDateKey, DL.dimLocationKey,  SSH.SalesHeaderID, SSD.SalesDetailID, SSD.SalesAmount, SSD.SalesQuantity, &#xA;(SSD.SalesAmount/SSD.SalesQuantity) AS SalesUnitPrice, (SSD.SalesQuantity * DP.ProductCost) AS SalesExtendedCost, (SSD.SalesAmount - (SSD.SalesQuantity * DP.ProductCost)) AS SalesTotalProfit&#xA;FROM StageSalesHeader SSH&#xA;LEFT JOIN StageSalesDetail SSD ON SSH.SalesHeaderID = SSD.SalesHeaderID&#xA;LEFT JOIN dimProduct DP ON SSD.ProductID = DP.ProductID&#xA;LEFT JOIN dimChannel DC on SSH.ChannelID = DC.ChannelID&#xA;LEFT JOIN DimDate DD ON SSH.Date = DD.FullDate&#xA;LEFT JOIN dimStore DS ON SSH.StoreID = DS.StoreID&#xA;LEFT JOIN dimReseller DR ON CAST(SSH.ResellerID AS VARCHAR(50)) = DR.ResellerID&#xA;LEFT JOIN dimCustomer DCT ON CAST(SSH.CustomerID AS VARCHAR (50)) = DCT.CustomerID&#xA;LEFT JOIN dimLocation DL ON DS.dimLocationKey = DL.dimLocationKey OR DR.dimLocationKey = DL.dimLocationKey OR DCT.dimLocationKey = DL.dimLocationKey&#xA;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'factSRCSalesTarget')&#xA;BEGIN&#xA;&#xA;INSERT INTO factSalesActual&#xA;(dimProductKey,&#xA;dimStoreKey,&#xA;dimResellerKey,&#xA;dimCustomerKey,&#xA;dimChannelKey,&#xA;dimSalesDateKey,&#xA;dimLocationKey,&#xA;SalesHeaderID,&#xA;SalesDetailID,&#xA;SalesAmount,&#xA;SalesQuantity,&#xA;SalesUnitPrice,&#xA;SalesExtendedCost,&#xA;SalesTotalProfit)&#xA;&#xA;SELECT DP.DimProductKey, DS.DimStoreKey, DR.dimResellerKey, DCT.dimCustomerKey, DC.dimChannelKey, DimDateKey, DL.dimLocationKey,  SSH.SalesHeaderID, SSD.SalesDetailID, SSD.SalesAmount, SSD.SalesQuantity, &#xA;(SSD.SalesAmount/SSD.SalesQuantity) AS SalesUnitPrice, (SSD.SalesQuantity * DP.ProductCost) AS SalesExtendedCost, (SSD.SalesAmount - (SSD.SalesQuantity * DP.ProductCost)) AS SalesTotalProfit&#xA;FROM StageSalesHeader SSH&#xA;LEFT JOIN StageSalesDetail SSD ON SSH.SalesHeaderID = SSD.SalesHeaderID&#xA;LEFT JOIN dimProduct DP ON SSD.ProductID = DP.ProductID&#xA;LEFT JOIN dimChannel DC on SSH.ChannelID = DC.ChannelID&#xA;LEFT JOIN DimDate DD ON SSH.Date = DD.FullDate&#xA;LEFT JOIN dimStore DS ON SSH.StoreID = DS.StoreID&#xA;LEFT JOIN dimReseller DR ON CAST(SSH.ResellerID AS VARCHAR(50)) = DR.ResellerID&#xA;LEFT JOIN dimCustomer DCT ON CAST(SSH.CustomerID AS VARCHAR (50)) = DCT.CustomerID&#xA;LEFT JOIN dimLocation DL ON DS.dimLocationKey = DL.dimLocationKey OR DR.dimLocationKey = DL.dimLocationKey OR DCT.dimLocationKey = DL.dimLocationKey&#xA;&#xA;UPDATE factSalesActual SET dimResellerKey = -1 WHERE dimResellerKey IS NuLL;&#xA;UPDATE factSalesActual SET dimCustomerKey = -1 WHERE dimCustomerKey IS NuLL; &#xA;UPDATE factSalesActual SET dimStoreKey = -1 WHERE dimStoreKey IS NuLL;&#xA;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -1132,24 +1149,6 @@
         <SQLTask:SqlTaskData
           SQLTask:Connection="{165BFA7C-E9EF-44E4-A115-2C55EE66C92E}"
           SQLTask:SqlStatementSource="SET IDENTITY_INSERT dbo.dimCustomer ON;&#xA;&#xA;INSERT INTO dbo.dimCustomer&#xA;(dimCustomerKey,&#xA;dimLocationKey,&#xA;CustomerID,&#xA;CustomerFullName,&#xA;CustomerFirstName,&#xA;CustomerLastName,&#xA;CustomerGender)&#xA;&#xA;VALUES&#xA;( &#xA;-1&#xA;,-1&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;);&#xA;SET IDENTITY_INSERT dbo.dimLocation OFF;&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Load Unknown dimDate"
-      DTS:CreationName="Microsoft.ExecuteSQLTask"
-      DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
-      DTS:DTSID="{ee7e6144-7d51-40a8-96db-1b7f6caa728e}"
-      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Load Unknown dimDate"
-      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{165BFA7C-E9EF-44E4-A115-2C55EE66C92E}"
-          SQLTask:SqlStatementSource="SET IDENTITY_INSERT dbo.dimDate ON;&#xA;&#xA;INSERT INTO dbo.dimDate&#xA;([DimDateKey]&#xA;      ,[FullDate]&#xA;      ,[DayNumberOfWeek]&#xA;      ,[DayNameOfWeek]&#xA;      ,[DayNumberOfMonth]&#xA;      ,[DayNumberOfYear]&#xA;      ,[WeekdayFlag]&#xA;      ,[WeekNumberOfYear]&#xA;      ,[MonthName]&#xA;      ,[MonthNumberOfYear]&#xA;      ,[CalendarQuarter]&#xA;      ,[CalendarYear]&#xA;      ,[CalendarSemester]&#xA;      ,[CreatedDate]&#xA;      ,[CreatedBy]&#xA;      ,[ModifiedDate]&#xA;      ,[ModifiedBy])&#xA;VALUES&#xA;( &#xA;-1&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;,'Unknown'&#xA;);&#xA;SET IDENTITY_INSERT dbo.dimDate OFF;&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -7638,8 +7637,8 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 23]"
       DTS:CreationName=""
-      DTS:DTSID="{896734EE-F5F3-4A45-82BD-5D648A8D670D}"
-      DTS:From="Package\Stage TargetBuyerSales"
+      DTS:DTSID="{36FE109F-C267-4789-AAB5-CAB9C31F50BF}"
+      DTS:From="Package\Delete Views"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 23"
       DTS:To="Package\Delete factSalesActual" />
@@ -7956,6 +7955,14 @@
       DTS:ObjectName="Constraint 55"
       DTS:To="Package\Create Dim_Fact_Views" />
     <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 56]"
+      DTS:CreationName=""
+      DTS:DTSID="{7C93E224-94E9-43C6-8975-D3111FF18567}"
+      DTS:From="Package\Stage TargetBuyerSales"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 56"
+      DTS:To="Package\Delete Views" />
+    <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 6]"
       DTS:CreationName=""
       DTS:DTSID="{C56AB8C0-68DC-4291-8186-565E1D0218E9}"
@@ -8001,252 +8008,252 @@
       <GraphLayout
         Capacity="128" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
+          Size="195,43"
+          Id="Package\Create Dim_Fact_Views"
+          TopLeft="185.499997355044,937.42106590938" />
+        <NodeLayout
           Size="174,42"
           Id="Package\Create dimChannel"
-          TopLeft="106,527" />
+          TopLeft="114,527" />
         <NodeLayout
           Size="180,42"
           Id="Package\Create dimCustomer"
-          TopLeft="1011,548" />
+          TopLeft="1019,548" />
         <NodeLayout
           Size="156,42"
           Id="Package\Create dimDate"
-          TopLeft="120,441" />
+          TopLeft="128,441" />
         <NodeLayout
           Size="174,42"
           Id="Package\Create dimLocation"
-          TopLeft="384,442" />
+          TopLeft="392,442" />
         <NodeLayout
-          Size="170.666666666667,42"
+          Size="171,42"
           Id="Package\Create dimProduct"
-          TopLeft="804,539" />
+          TopLeft="812,539" />
         <NodeLayout
-          Size="173.333333333334,42"
+          Size="173,42"
           Id="Package\Create dimReseller"
-          TopLeft="590,539" />
+          TopLeft="598,539" />
         <NodeLayout
           Size="174,42"
           Id="Package\Create dimStore"
-          TopLeft="351,532" />
+          TopLeft="359,532" />
         <NodeLayout
-          Size="254.666666666667,42"
+          Size="255,42"
           Id="Package\Create factProductSalesTarget"
-          TopLeft="1184,650" />
+          TopLeft="1192,650" />
         <NodeLayout
           Size="170,42"
           Id="Package\Create factSalesActual"
-          TopLeft="1249,552" />
+          TopLeft="1257,552" />
         <NodeLayout
-          Size="214.666666666667,42"
+          Size="215,42"
           Id="Package\Create factSRCSalesTarget"
-          TopLeft="938,648" />
+          TopLeft="946,648" />
         <NodeLayout
-          Size="173.333333333334,42"
+          Size="173,42"
           Id="Package\Delete dimChannel"
-          TopLeft="1011,447" />
+          TopLeft="1019,447" />
         <NodeLayout
-          Size="178.666666666667,42"
+          Size="179,42"
           Id="Package\Delete dimCustomer"
-          TopLeft="823,359" />
+          TopLeft="911,358" />
         <NodeLayout
-          Size="154.666666666667,42"
+          Size="155,42"
           Id="Package\Delete dimDate"
-          TopLeft="817,447" />
+          TopLeft="825,447" />
         <NodeLayout
-          Size="173.333333333334,42"
+          Size="173,42"
           Id="Package\Delete dimLocation"
-          TopLeft="605,444" />
+          TopLeft="613,444" />
         <NodeLayout
-          Size="169.333333333334,42"
+          Size="169,42"
           Id="Package\Delete dimProduct"
-          TopLeft="1027,356" />
+          TopLeft="1122,360" />
         <NodeLayout
           Size="172,42"
           Id="Package\Delete dimReseller"
-          TopLeft="1228,357" />
+          TopLeft="1336,362" />
         <NodeLayout
           Size="158,42"
           Id="Package\Delete dimStore"
-          TopLeft="1234,443" />
+          TopLeft="1242,443" />
         <NodeLayout
-          Size="229.333333333334,42"
+          Size="229,42"
           Id="Package\Delete factProductSalesTarget"
-          TopLeft="313,362" />
+          TopLeft="411,358" />
         <NodeLayout
           Size="190,42"
           Id="Package\Delete factSalesActual"
-          TopLeft="76,361" />
+          TopLeft="198,358" />
         <NodeLayout
           Size="214,42"
           Id="Package\Delete factSRCSalesTarget"
-          TopLeft="580,361" />
+          TopLeft="672,359" />
         <NodeLayout
-          Size="165.333333333334,42"
+          Size="165,42"
           Id="Package\Load dimChannel"
-          TopLeft="118,635" />
+          TopLeft="126,635" />
         <NodeLayout
           Size="172,42"
           Id="Package\Load dimCustomer"
-          TopLeft="1316,741" />
+          TopLeft="1324,741" />
         <NodeLayout
-          Size="146.666666666667,42"
+          Size="147,42"
           Id="Package\Load dimDate"
-          TopLeft="335,637" />
+          TopLeft="343,637" />
         <NodeLayout
           Size="166,42"
           Id="Package\Load dimLocation"
-          TopLeft="736,648" />
+          TopLeft="744,648" />
         <NodeLayout
           Size="162,42"
           Id="Package\Load dimProduct"
-          TopLeft="1049,829" />
+          TopLeft="1057,829" />
         <NodeLayout
-          Size="165.333333333334,42"
+          Size="165,42"
           Id="Package\Load dimReseller"
-          TopLeft="844,739" />
+          TopLeft="852,739" />
         <NodeLayout
           Size="150,42"
           Id="Package\Load dimStore"
-          TopLeft="355,731" />
+          TopLeft="363,731" />
         <NodeLayout
-          Size="221.333333333334,42"
+          Size="221,42"
           Id="Package\Load factProductSalesTarget"
-          TopLeft="529,829" />
+          TopLeft="537,829" />
         <NodeLayout
           Size="182,42"
           Id="Package\Load factSalesActual"
-          TopLeft="69,833.315789460806" />
+          TopLeft="77,833.315789460806" />
         <NodeLayout
-          Size="204,42.6666666666667"
+          Size="204,43"
           Id="Package\Load factSRCSalesTarget"
-          TopLeft="298.999999850988,831" />
+          TopLeft="306.999999850988,831" />
         <NodeLayout
           Size="214,42"
           Id="Package\Load Unknown dimChannel"
-          TopLeft="93,723" />
+          TopLeft="101,723" />
         <NodeLayout
-          Size="221.333333333334,42"
+          Size="221,42"
           Id="Package\Load Unknown dimCustomer"
-          TopLeft="1279,831" />
+          TopLeft="1287,831" />
         <NodeLayout
-          Size="196,42"
-          Id="Package\Load Unknown dimDate"
-          TopLeft="85,998" />
-        <NodeLayout
-          Size="178.666666666667,42"
+          Size="179,42"
           Id="Package\Load Unknown dimLocation"
-          TopLeft="523,644" />
+          TopLeft="531,644" />
         <NodeLayout
-          Size="210.666666666667,42"
+          Size="211,42"
           Id="Package\Load Unknown dimProduct"
-          TopLeft="793,831" />
+          TopLeft="801,831" />
         <NodeLayout
-          Size="213.333333333334,42"
+          Size="213,42"
           Id="Package\Load Unknown dimReseller"
-          TopLeft="1075,738" />
+          TopLeft="1083,738" />
         <NodeLayout
-          Size="198.666666666667,42"
+          Size="199,42"
           Id="Package\Load Unknown dimStore"
-          TopLeft="578,738" />
+          TopLeft="586,738" />
         <NodeLayout
           Size="152,42"
           Id="Package\Stage Channel"
-          TopLeft="83,91" />
+          TopLeft="91,91" />
         <NodeLayout
-          Size="198.666666666667,42"
+          Size="199,42"
           Id="Package\Stage Channel Category"
-          TopLeft="282,95" />
+          TopLeft="290,95" />
         <NodeLayout
           Size="158,42"
           Id="Package\Stage Customer"
-          TopLeft="510,92" />
+          TopLeft="518,92" />
         <NodeLayout
-          Size="149.333333333334,42"
+          Size="149,42"
           Id="Package\Stage Product"
-          TopLeft="723,99" />
+          TopLeft="731,99" />
         <NodeLayout
-          Size="193.333333333334,42"
+          Size="193,42"
           Id="Package\Stage ProductCategory"
-          TopLeft="924,103" />
+          TopLeft="932,103" />
         <NodeLayout
-          Size="173.333333333334,42"
+          Size="173,42"
           Id="Package\Stage ProductType"
-          TopLeft="1158,105" />
+          TopLeft="1166,105" />
         <NodeLayout
-          Size="150.666666666667,42"
+          Size="151,42"
           Id="Package\Stage Reseller"
-          TopLeft="1177,266" />
+          TopLeft="1185,266" />
         <NodeLayout
           Size="166,42"
           Id="Package\Stage SalesDetail"
-          TopLeft="750,270" />
+          TopLeft="758,270" />
         <NodeLayout
           Size="174,42"
           Id="Package\Stage SalesHeader"
-          TopLeft="956,272" />
+          TopLeft="964,272" />
         <NodeLayout
-          Size="137.333333333334,42"
+          Size="137,42"
           Id="Package\Stage Store"
-          TopLeft="536,272" />
+          TopLeft="544,272" />
         <NodeLayout
-          Size="198.666666666667,42"
+          Size="199,42"
           Id="Package\Stage TargetBuyerSales"
-          TopLeft="77,274" />
+          TopLeft="85,274" />
         <NodeLayout
-          Size="150.666666666667,50"
+          Size="151,50"
           Id="Package\Stage TargetProductSales"
-          TopLeft="330,270" />
+          TopLeft="338,270" />
         <NodeLayout
           Size="166,42"
           Id="Package\Truncate Channel"
-          TopLeft="72,6" />
+          TopLeft="80,6" />
         <NodeLayout
           Size="214,42"
           Id="Package\Truncate Channel Category"
-          TopLeft="275,10" />
+          TopLeft="283,10" />
         <NodeLayout
           Size="170,42"
           Id="Package\Truncate Customer"
-          TopLeft="504,13" />
+          TopLeft="512,13" />
         <NodeLayout
           Size="170,42"
           Id="Package\Truncate Product"
-          TopLeft="712,15" />
+          TopLeft="720,15" />
         <NodeLayout
           Size="170,42"
           Id="Package\Truncate ProductCategory"
-          TopLeft="914,15" />
+          TopLeft="922,15" />
         <NodeLayout
           Size="170,42"
           Id="Package\Truncate ProductType"
-          TopLeft="1111,19" />
+          TopLeft="1119,19" />
         <NodeLayout
           Size="166,42"
           Id="Package\Truncate Reseller"
-          TopLeft="1168,195" />
+          TopLeft="1176,195" />
         <NodeLayout
           Size="170,42"
           Id="Package\Truncate SalesDetail"
-          TopLeft="745,196" />
+          TopLeft="753,196" />
         <NodeLayout
-          Size="189.333333333334,42"
+          Size="189,42"
           Id="Package\Truncate SalesHeader"
-          TopLeft="949,197" />
+          TopLeft="957,197" />
         <NodeLayout
           Size="242,42"
           Id="Package\Truncate StageTargetBuyerSales"
-          TopLeft="64,190" />
+          TopLeft="72,190" />
         <NodeLayout
-          Size="157.333333333334,56"
+          Size="157,56"
           Id="Package\Truncate StageTargetProductSales"
-          TopLeft="352,185" />
+          TopLeft="360,185" />
         <NodeLayout
           Size="170,42"
           Id="Package\Truncate Store"
-          TopLeft="535,194" />
+          TopLeft="543,194" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="157,48">
+          TopLeft="165,48">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8268,7 +8275,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="381.75,52">
+          TopLeft="389.75,52">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8290,7 +8297,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 10]"
-          TopLeft="1223.75,61">
+          TopLeft="1231.75,61">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8312,7 +8319,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 11]"
-          TopLeft="1247.75,147">
+          TopLeft="1255.75,147">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8334,7 +8341,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 12]"
-          TopLeft="1251.75,237">
+          TopLeft="1259.75,237">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8356,7 +8363,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 13]"
-          TopLeft="1228.66666666667,266">
+          TopLeft="1236.66666666667,266">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8390,7 +8397,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 14]"
-          TopLeft="1013.33333333333,239">
+          TopLeft="1021.33333333333,239">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8424,7 +8431,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 15]"
-          TopLeft="1015.33333333333,272">
+          TopLeft="1023.33333333333,272">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8458,7 +8465,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 16]"
-          TopLeft="832.5,238">
+          TopLeft="840.5,238">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8480,7 +8487,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 17]"
-          TopLeft="806.666666666667,270">
+          TopLeft="814.666666666667,270">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8514,7 +8521,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 18]"
-          TopLeft="593,236">
+          TopLeft="601,236">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8548,7 +8555,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 19]"
-          TopLeft="583,272">
+          TopLeft="591,272">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8582,7 +8589,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="589,55">
+          TopLeft="597,55">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8604,7 +8611,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 20]"
-          TopLeft="405.583333333333,241">
+          TopLeft="413.583333333333,241">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8626,7 +8633,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 21]"
-          TopLeft="381.666666666667,270">
+          TopLeft="389.666666666667,270">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8660,7 +8667,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 22]"
-          TopLeft="146,232">
+          TopLeft="154,232">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8693,30 +8700,8 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 23]"
-          TopLeft="173.75,316">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,45"
-              Start="0,0"
-              End="0,37.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,37.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 24]"
-          TopLeft="195.5,483">
+          TopLeft="203.5,483">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8738,7 +8723,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 25]"
-          TopLeft="200.25,677">
+          TopLeft="208.25,677">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8760,18 +8745,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 26]"
-          TopLeft="1196,377.5">
+          TopLeft="1291,382">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="32,0"
+              EndConnector="45,0"
               Start="0,0"
-              End="24.5,0">
+              End="37.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="24.5,0" />
+                    End="37.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -8782,7 +8767,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 27]"
-          TopLeft="605,464">
+          TopLeft="613,464">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8804,7 +8789,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 28]"
-          TopLeft="736,667">
+          TopLeft="744,667">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8826,7 +8811,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 28 1]"
-          TopLeft="505,755.5">
+          TopLeft="513,755.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8848,7 +8833,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 28 1 1]"
-          TopLeft="1009,759.5">
+          TopLeft="1017,759.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8870,7 +8855,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 28 1 1 1 1]"
-          TopLeft="1049,851">
+          TopLeft="1057,851">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8892,7 +8877,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 28 1 1 1 1 1]"
-          TopLeft="1402,783">
+          TopLeft="1410,783">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8926,18 +8911,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 29]"
-          TopLeft="1313.5,399">
+          TopLeft="1422,404">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,44"
+              EndConnector="-101,39"
               Start="0,0"
-              End="0,36.5">
+              End="-101,31.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,36.5" />
+                    End="0,15.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,15.5"
+                    Point2="0,19.5"
+                    Point3="-4,19.5" />
+                  <mssgle:LineSegment
+                    End="-97,19.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-97,19.5"
+                    Point2="-101,19.5"
+                    Point3="-101,23.5" />
+                  <mssgle:LineSegment
+                    End="-101,31.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -8948,7 +8945,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="797.25,57">
+          TopLeft="805.25,57">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8970,7 +8967,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 30]"
-          TopLeft="1234,466">
+          TopLeft="1242,466">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8992,7 +8989,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 31]"
-          TopLeft="1011,468">
+          TopLeft="1019,468">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9014,7 +9011,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 32]"
-          TopLeft="817,466.5">
+          TopLeft="825,466.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9036,7 +9033,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 33]"
-          TopLeft="384,462.5">
+          TopLeft="392,462.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9058,7 +9055,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 34]"
-          TopLeft="280,550.5">
+          TopLeft="288,550.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9080,7 +9077,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 35]"
-          TopLeft="525,556.5">
+          TopLeft="533,556.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9102,7 +9099,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 36]"
-          TopLeft="763,560">
+          TopLeft="771,560">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9124,7 +9121,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 37]"
-          TopLeft="975,560">
+          TopLeft="983,560">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9158,7 +9155,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 38]"
-          TopLeft="1191,571">
+          TopLeft="1199,571">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9180,7 +9177,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 39]"
-          TopLeft="523,661.5">
+          TopLeft="531,661.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9202,7 +9199,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="183,91">
+          TopLeft="191,91">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9236,7 +9233,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 40]"
-          TopLeft="1334,594">
+          TopLeft="1342,594">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9270,7 +9267,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 41]"
-          TopLeft="307,744">
+          TopLeft="315,744">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9304,7 +9301,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 42]"
-          TopLeft="777,759.5">
+          TopLeft="785,759.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9326,7 +9323,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 43]"
-          TopLeft="1288,760.5">
+          TopLeft="1296,760.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9348,7 +9345,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 44]"
-          TopLeft="1279,851">
+          TopLeft="1287,851">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9370,18 +9367,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 45]"
-          TopLeft="1002,378.5">
+          TopLeft="1090,380">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="25,0"
+              EndConnector="32,0"
               Start="0,0"
-              End="17.5,0">
+              End="24.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="17.5,0" />
+                    End="24.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9392,7 +9389,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 46]"
-          TopLeft="335,657">
+          TopLeft="343,657">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9414,7 +9411,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 47]"
-          TopLeft="1184,670">
+          TopLeft="1192,670">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9436,7 +9433,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 48]"
-          TopLeft="938,669">
+          TopLeft="946,669">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9458,18 +9455,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 49]"
-          TopLeft="266,382.5">
+          TopLeft="388,379">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="47,0"
+              EndConnector="23,0"
               Start="0,0"
-              End="39.5,0">
+              End="15.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="39.5,0" />
+                    End="15.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9480,7 +9477,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="413.333333333333,95">
+          TopLeft="421.333333333333,95">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9514,18 +9511,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 50]"
-          TopLeft="542,382.5">
+          TopLeft="640,379.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="38,0"
+              EndConnector="32,0"
               Start="0,0"
-              End="30.5,0">
+              End="24.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="30.5,0" />
+                    End="24.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9536,18 +9533,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 51]"
-          TopLeft="794,381">
+          TopLeft="886,379.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="29,0"
+              EndConnector="25,0"
               Start="0,0"
-              End="21.5,0">
+              End="17.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="21.5,0" />
+                    End="17.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9558,7 +9555,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 52]"
-          TopLeft="793,851">
+          TopLeft="801,851">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9580,7 +9577,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 53]"
-          TopLeft="529,851.166666666667">
+          TopLeft="537,851.166666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9601,8 +9598,64 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 54]"
+          TopLeft="306.999999850988,853.324561397069">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-47.9999998509884,0"
+              Start="0,0"
+              End="-40.4999998509884,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-40.4999998509884,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 55]"
+          TopLeft="168,875.315789460806">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="101.499997355044,62.1052764485746"
+              Start="0,0"
+              End="101.499997355044,54.6052764485746">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.0526382242873" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,27.0526382242873"
+                    Point2="0,31.0526382242873"
+                    Point3="4,31.0526382242873" />
+                  <mssgle:LineSegment
+                    End="97.4999973550439,31.0526382242873" />
+                  <mssgle:CubicBezierSegment
+                    Point1="97.4999973550439,31.0526382242873"
+                    Point2="101.499997355044,31.0526382242873"
+                    Point3="101.499997355044,35.0526382242873" />
+                  <mssgle:LineSegment
+                    End="101.499997355044,54.6052764485746" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
-          TopLeft="614,92">
+          TopLeft="622,92">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9636,7 +9689,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
-          TopLeft="821,99">
+          TopLeft="829,99">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9670,7 +9723,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 8]"
-          TopLeft="1023.25,57">
+          TopLeft="1031.25,57">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9692,7 +9745,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 9]"
-          TopLeft="1051.33333333333,103">
+          TopLeft="1059.33333333333,103">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -9724,20 +9777,24 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="143,42"
+          Id="Package\Delete Views"
+          TopLeft="0,361" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 54]"
-          TopLeft="298.999999850988,853.324561397069">
+          Id="Package.PrecedenceConstraints[Constraint 23]"
+          TopLeft="143,380.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-47.9999998509884,0"
+              EndConnector="55,0"
               Start="0,0"
-              End="-40.4999998509884,0">
+              End="47.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="-40.4999998509884,0" />
+                    End="47.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9746,36 +9803,32 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="194.666666666667,42.6666666666667"
-          Id="Package\Create Dim_Fact_Views"
-          TopLeft="177.499997355044,937.42106590938" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 55]"
-          TopLeft="160,875.315789460806">
+          Id="Package.PrecedenceConstraints[Constraint 56]"
+          TopLeft="184.5,316">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="101.499997355044,62.1052764485746"
+              EndConnector="-113,45"
               Start="0,0"
-              End="101.499997355044,54.6052764485746">
+              End="-113,37.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,27.0526382242873" />
+                    End="0,18.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,27.0526382242873"
-                    Point2="0,31.0526382242873"
-                    Point3="4,31.0526382242873" />
+                    Point1="0,18.5"
+                    Point2="0,22.5"
+                    Point3="-4,22.5" />
                   <mssgle:LineSegment
-                    End="97.4999973550439,31.0526382242873" />
+                    End="-109,22.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="97.4999973550439,31.0526382242873"
-                    Point2="101.499997355044,31.0526382242873"
-                    Point3="101.499997355044,35.0526382242873" />
+                    Point1="-109,22.5"
+                    Point2="-113,22.5"
+                    Point3="-113,26.5" />
                   <mssgle:LineSegment
-                    End="101.499997355044,54.6052764485746" />
+                    End="-113,37.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
